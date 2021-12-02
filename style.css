@@ -1,0 +1,7 @@
+body
+{
+  background-image: linear-gradient(to right top, #11c0a9, #e4241d, #181bd8, #460be6, #000507);
+} 
+.btn-success:hover{
+  background-color: aqua;   
+}
